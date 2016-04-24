@@ -1,0 +1,7 @@
+{
+  "name": "Meet.js",
+  "description": "Meet.js Web Application Toolkit configuration file",
+  "self": false,
+  "path": "./",
+  "useGlobal": false
+}
